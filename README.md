@@ -1,8 +1,5 @@
 # INSTALL 
-## yarn 
-# RUN 
-## yarn start 
-# ENDPOINTS 
-## localhost: 
-# DEPLOY 
-## npm build
+## cd server && yarn install
+# RUN (from root folder) 
+## node server/index.js
+
